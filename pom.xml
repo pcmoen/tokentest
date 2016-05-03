@@ -11,6 +11,7 @@
     <modules>
         <module>core</module>
         <module>springboot</module>
+        <module>springmvc</module>
         <module>dropwizard</module>
     </modules>
 
